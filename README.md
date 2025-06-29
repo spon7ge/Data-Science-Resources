@@ -8,8 +8,9 @@ Curated list of important data science resources
 * [HackerRank] [Python](https://www.hackerrank.com/domains/python) &nbsp;&nbsp; [Algorithms](https://www.hackerrank.com/domains/algorithms) &nbsp;&nbsp; [Data Structures](https://www.hackerrank.com/domains/data-structures) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL](https://www.hackerrank.com/domains/sql)
 * [stratascratch] [MySQL Interview Questions](https://www.stratascratch.com/blog/mysql-interview-questions/)
 
-## Statistics
+## Statistics & Linear Alegbra
 * [Book] [Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, Peter Gedeck](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/gedeck/practical-statistics-for-data-scientists)
+* [edx Course] Linear Algebra - Foundations to Frontiers: https://www.edx.org/learn/linear-algebra/the-university-of-texas-at-austin-linear-algebra-foundations-to-frontiers
 
 ## Machine Learning
 * **[Google Machine Learning Education](https://developers.google.com/machine-learning)**
