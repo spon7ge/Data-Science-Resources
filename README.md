@@ -4,6 +4,7 @@ Curated list of important data science resources
 ## Python, Pandas, SQL
 * **[Book] [Python for Data Analysis by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781098104023) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/wesm/pydata-book)**
 * [Google's Course] [Google's Python Class](https://developers.google.com/edu/python)
+* [DSA Learning] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 * [LeetCode] [Python, DSA (LeetCode 75)](https://leetcode.com/studyplan/leetcode-75/) &nbsp;&nbsp; [Solution](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)&nbsp;&nbsp;**|**&nbsp;&nbsp; [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 * [HackerRank] [Python](https://www.hackerrank.com/domains/python) &nbsp;&nbsp; [Algorithms](https://www.hackerrank.com/domains/algorithms) &nbsp;&nbsp; [Data Structures](https://www.hackerrank.com/domains/data-structures) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL](https://www.hackerrank.com/domains/sql)
 * [stratascratch] [MySQL Interview Questions](https://www.stratascratch.com/blog/mysql-interview-questions/)
@@ -52,3 +53,6 @@ Curated list of important data science resources
 ## Others
 * [Coursera Post] [11 Good Study Habits to Develop](https://www.coursera.org/articles/study-habits)
 * [Google's Course] [Google's C++ Class](https://developers.google.com/edu/c++)
+* [MIT Course] [Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/)
+* [MIT Course] [Mathematical Methods for Quantitative Finance](https://www.edx.org/learn/finance/massachusetts-institute-of-technology-mathematical-methods-for-quantitative-finance)
+* [Interested in learning] https://www.vertoxquant.com/p/a-full-guide-to-risk-management
