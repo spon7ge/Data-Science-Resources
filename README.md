@@ -1,4 +1,4 @@
-# Awesome-Data-Science-Resources
+# Data-Science-Resources
 Curated list of important data science resources
 
 ## Python, Pandas, SQL
