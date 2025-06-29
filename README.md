@@ -56,3 +56,4 @@ Curated list of important data science resources
 * [MIT Course] [Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/)
 * [MIT Course] [Mathematical Methods for Quantitative Finance](https://www.edx.org/learn/finance/massachusetts-institute-of-technology-mathematical-methods-for-quantitative-finance)
 * [Interested in learning] https://www.vertoxquant.com/p/a-full-guide-to-risk-management
+* [Reading about DS] [Article](https://datascientistsdiary.com/data-scientist-roadmap-a-complete-guide/)
