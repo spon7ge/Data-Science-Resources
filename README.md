@@ -4,7 +4,7 @@ Curated list of important data science resources
 ## Python, Pandas, SQL
 * **[Book] [Python for Data Analysis by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781098104023) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/wesm/pydata-book)**
 * [Google's Course] [Google's Python Class](https://developers.google.com/edu/python)
-* [DSA Learning] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+* [DSA Learning] [Algorithms Specialization pt1](https://www.coursera.org/learn/algorithms-part1) [Algorithms Specialization pt2](https://www.coursera.org/learn/algorithms-part2)
 * [LeetCode] [Python, DSA (LeetCode 75)](https://leetcode.com/studyplan/leetcode-75/) &nbsp;&nbsp; [Solution](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)&nbsp;&nbsp;**|**&nbsp;&nbsp; [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 * [HackerRank] [Python](https://www.hackerrank.com/domains/python) &nbsp;&nbsp; [Algorithms](https://www.hackerrank.com/domains/algorithms) &nbsp;&nbsp; [Data Structures](https://www.hackerrank.com/domains/data-structures) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL](https://www.hackerrank.com/domains/sql)
 * [stratascratch] [MySQL Interview Questions](https://www.stratascratch.com/blog/mysql-interview-questions/)
